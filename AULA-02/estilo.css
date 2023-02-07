@@ -1,0 +1,49 @@
+body {
+font-weight: bold;
+color: bisque;
+
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.painel {
+    width: 50%;
+    background-color: brown;
+    margin: auto;
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    background-image: url(./churrasco.jpg);
+}
+.campo {
+    height: 50px;
+    font-size: 15pt;
+}
+
+.botao {
+    height: 30px;
+    width: 40%;
+}
+
+.botao:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.unidade {
+    padding: 12px;
+
+}
+
+.caixa-resultado > li {
+    font-size: 12pt;
+}
+
+.icone-titulo {
+    width: 20%;
+    padding-top: 10px;
+    margin: auto;
+}
